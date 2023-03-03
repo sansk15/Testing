@@ -11,7 +11,7 @@ public class A {
 	}
 	public void m1()
 	{
-	System.out.println("Hello san")
+	System.out.println("Hello san");
 	
 	}
 
